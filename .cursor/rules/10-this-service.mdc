@@ -1,0 +1,8 @@
+---
+description: Repositoriy alert-job-config
+alwaysApply: true
+---
+
+# alert-job-config
+
+Spring Cloud Config Server. Shared YAML often lives in meta repo `alert-job/config/`.
